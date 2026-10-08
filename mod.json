@@ -1,0 +1,11 @@
+{
+    "geode": "v5.10.1",
+    "gd": {
+        "android": "2.2081"
+    },
+    "id": "angel.complementily",
+    "name": "Complementily",
+    "version": "v1.0.0",
+    "developer": "Angel",
+    "description": "Practice and utility tools for Geometry Dash."
+}
